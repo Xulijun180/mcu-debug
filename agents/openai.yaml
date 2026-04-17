@@ -1,0 +1,4 @@
+interface:
+  display_name: "MCU Debug"
+  short_description: "探测 J-Link、ST-Link、OpenOCD 并选择合适调试方式。"
+  default_prompt: "Use $mcu-debug to detect the available MCU debug tools and choose the best backend for this project."
